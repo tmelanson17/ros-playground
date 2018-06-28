@@ -1,2 +1,6 @@
 build
 *build*
+
+devel/share/myfirstsim/cmake/
+
+devel/share/beginner_tutorials/cmake/
